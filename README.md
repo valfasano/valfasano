@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valfasano!
-- 👀 I’m interested in HTML, CSS, JavaScript;
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 👀 I’m interested in HTML, CSS, JavaScript, React;
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React.
 
 <!---
 valfasano/valfasano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
