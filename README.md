@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valfasano!
-- 👀 I’m interested in HTML, CSS, JavaScript, React;
+- 👀 I’m interested in HTML, CSS, JavaScript, React.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React.
 
 <!---
