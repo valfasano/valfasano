@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @valfasano!
-- 👀 I’m interested in HTML, CSS, JavaScript, React.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React.
+- 👋 Hi, I’m @valfasano! 
 
-<!---
-valfasano/valfasano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🙏 You can contact me in Portuguese or in English; 
+
+- 👀 I’m interested in Front-end;
+
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and React;
+
+- 👩‍💻 Linkedin: https://www.linkedin.com/in/valquiriafasano
+
+- ☺️ Portfolio: https://www.valquiriafasano.com
+
+
