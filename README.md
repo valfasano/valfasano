@@ -2,10 +2,10 @@
 
 - 🙏 You can contact me in Portuguese or in English; 
 
-- 👀 I’m interested in Front-end;
+- 👀 I’m interested in Front-end and Cloud;
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and React;
+- 🌱 I’m currently learning JavaScript, Cloud and Kotlin;
 
-- 👩‍💻 Linkedin: https://www.linkedin.com/in/valquiriafasano
+- 👩‍💻 Linkedin: https://www.linkedin.com/in/valquiriafasano.
 
-- ☺️ Portfolio: https://www.valquiriafasano.com
+
